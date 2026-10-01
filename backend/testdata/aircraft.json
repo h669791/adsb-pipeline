@@ -1,0 +1,8 @@
+{
+  "now": 1790000000.0,
+  "aircraft": [
+    { "hex": "47a1b2", "flight": "TEST01  ", "lat": 59.95, "lon": 10.80,
+      "alt_baro": 32000, "gs": 450.2, "track": 12.5, "seen": 0.4, "seen_pos": 1.2 },
+    { "hex": "4ac9e1", "flight": "TEST02  ", "alt_baro": "ground", "seen": 3.1 }
+  ]
+}
