@@ -4,7 +4,8 @@ A live aircraft map built from ADS-B data. A self-initiated project to learn the
 
 readsb handles the signal processing. I built the rest: reading and validating the data, a real-time backend, and a map that is honest about how old each position is.
 
-<!-- Add a screenshot of the map here, e.g. ![Live map](docs/map.png) -->
+<img width="1314" height="875" alt="map png" src="https://github.com/user-attachments/assets/76394fdd-d0f2-47e8-93df-fcccb6f28ae5" />
+
 
 `TypeScript` `Node.js` `Fastify` `WebSocket` `React` `Vite` `MapLibre GL JS`
 
